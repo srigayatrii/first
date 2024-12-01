@@ -1,5 +1,5 @@
 # first
 this is my first git repository
 <br>
-author - sri gayatri.t
+author - sri gayatri
 
